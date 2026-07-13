@@ -121,7 +121,7 @@ Generated reports:
 ## Project Structure
 
 ```text
-Property_Management_Analytics_Project/
+Property-Management-Financial-Operations-Dashboard/
 ├── dashboards/
 │   ├── screenshots/
 │   │   ├── 01_Executive Monthly KPI Overview.png
