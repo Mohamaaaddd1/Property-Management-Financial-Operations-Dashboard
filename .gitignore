@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Matplotlib cache
+.mplconfig/
+reports/figures/.mplconfig/
+
+# Logs
+*.log
+
+# Local editors
+.vscode/
+.idea/

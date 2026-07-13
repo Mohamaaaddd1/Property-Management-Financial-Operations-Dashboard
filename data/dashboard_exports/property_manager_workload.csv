@@ -1,0 +1,11 @@
+Property Manager,Workload Rank,Workload Tier,Properties Managed,Budget Review Properties,Declining NOI Properties,Declining EBITDA Properties,Total Income Variance,Total Expense Variance,High or Critical AR Tenants,Latest AR Outstanding Balance,Active Backlog Count,Overdue Active Backlog Count,Critical Work Order Count,High Priority Work Order Count,Estimated Work Order Cost,Open Compliance Findings,High Severity Open Findings,Immediate Action Findings,Properties With Open Findings,Exception Workload Score
+Jordan Lee,1,High workload,24,24,9,10,-3725015.92,1233425.67,313,23170.62,103,28,25,78,328017.17,134,35,21,22,421
+Riley Chen,2,High workload,21,21,13,13,-8598704.12,2435516.16,278,85318.86,100,29,26,57,254749.92,137,39,15,21,382
+Taylor Morgan,3,High workload,22,22,13,14,-6032211.71,2230339.18,252,231491.82,85,28,26,82,308885.65,152,48,27,22,377
+Drew Thompson,4,Moderate workload,20,20,12,11,-3705174.95,728829.3,222,149979.76,94,35,20,69,240451.75,124,43,24,20,344
+Avery Johnson,5,Moderate workload,17,17,8,9,-4059036.32,1373433.19,224,60390.46,106,41,19,78,239559.18,108,40,20,17,342
+Cameron Brooks,6,Moderate workload,16,16,10,10,-5420307.03,2765269.27,206,49107.76,113,44,26,89,291668.85,130,37,18,16,321
+Nadia Williams,7,Moderate workload,13,13,8,7,-3411797.8,583047.66,177,59570.73,58,23,19,58,203958.54,98,36,22,13,271
+Casey Rivera,8,Standard workload,14,14,6,6,-5573683.82,2831591.22,158,153623.67,85,31,22,62,218473.01,91,30,17,14,250
+Samira Khan,9,Standard workload,16,16,4,4,-2680966.37,614844.5,170,59948.43,59,16,10,55,171499.14,84,28,19,16,249
+Morgan Patel,10,Standard workload,12,12,3,3,-2915066.11,743967.22,145,69277.32,45,13,11,43,161957.44,60,15,6,12,191

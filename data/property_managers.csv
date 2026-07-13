@@ -1,0 +1,11 @@
+property_manager_id,property_manager_name,market_region,assignment_start_date,synthetic_record
+PM-001,Avery Johnson,NYC Mixed Portfolio,2023-03-01,True
+PM-002,Morgan Patel,Manhattan Core,2023-12-01,True
+PM-003,Jordan Lee,Brooklyn/Queens,2022-09-01,True
+PM-004,Casey Rivera,Outer Boroughs,2024-02-01,True
+PM-005,Taylor Morgan,NYC Mixed Portfolio,2024-03-01,True
+PM-006,Riley Chen,NYC Mixed Portfolio,2022-09-01,True
+PM-007,Drew Thompson,NYC Mixed Portfolio,2022-05-01,True
+PM-008,Samira Khan,NYC Mixed Portfolio,2022-08-01,True
+PM-009,Cameron Brooks,Manhattan Core,2022-01-01,True
+PM-010,Nadia Williams,Brooklyn/Queens,2022-12-01,True

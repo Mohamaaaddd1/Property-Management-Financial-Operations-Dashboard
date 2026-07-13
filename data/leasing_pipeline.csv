@@ -1,0 +1,180 @@
+opportunity_id,property_id,prospect_name,stage,probability,expected_monthly_rent,weighted_monthly_rent,expected_lease_start,space_sqft,source,synthetic_record
+PIPE-000001,PROP-0001,Parkside Group Prospect,Proposal,0.35,17798.47,6229.46,2025-01-13,1045,Broker Referral,True
+PIPE-000002,PROP-0002,Liberty Retail Prospect,Closed Won,1.0,49183.65,49183.65,2025-06-27,1967,Client Referral,True
+PIPE-000003,PROP-0003,Hudson Clinic Prospect,Tour Scheduled,0.2,2621.76,524.35,2025-11-03,1460,Broker Referral,True
+PIPE-000004,PROP-0004,Apex Labs Prospect,Negotiation,0.55,9892.43,5440.83,2025-10-16,1194,Broker Referral,True
+PIPE-000005,PROP-0008,Vista Consulting Prospect,Lead,0.1,13231.88,1323.19,2025-05-08,648,Renewal Conversation,True
+PIPE-000006,PROP-0010,Beacon Market Prospect,Lead,0.1,4224.25,422.43,2025-11-08,2617,Renewal Conversation,True
+PIPE-000007,PROP-0011,Apex Labs Prospect,Closed Lost,0.0,3375.24,0.0,2025-02-14,5643,Renewal Conversation,True
+PIPE-000008,PROP-0012,Cornerstone Labs Prospect,Lead,0.1,2553.43,255.34,2025-03-03,1223,Website Inquiry,True
+PIPE-000009,PROP-0013,Urban Retail Prospect,Final Review,0.75,8692.5,6519.38,2025-08-23,5247,Market Outreach,True
+PIPE-000010,PROP-0014,Brightline Market Prospect,Lead,0.1,2162.2,216.22,2025-03-19,3847,Website Inquiry,True
+PIPE-000011,PROP-0014,Hudson Labs Prospect,Closed Won,1.0,1592.68,1592.68,2025-08-03,885,Client Referral,True
+PIPE-000012,PROP-0016,Atlas Consulting Prospect,Proposal,0.35,124651.2,43627.92,2025-12-11,4172,Website Inquiry,True
+PIPE-000013,PROP-0016,Atlas Consulting Prospect,Lead,0.1,161268.91,16126.89,2025-12-15,942,Market Outreach,True
+PIPE-000014,PROP-0017,Atlas Fitness Prospect,Tour Scheduled,0.2,4515.37,903.07,2025-12-12,3045,Broker Referral,True
+PIPE-000015,PROP-0017,Northstar Design Prospect,Proposal,0.35,3831.59,1341.06,2025-05-26,5408,Broker Referral,True
+PIPE-000016,PROP-0020,Pioneer Partners Prospect,Proposal,0.35,5631.17,1970.91,2025-02-07,5085,Renewal Conversation,True
+PIPE-000017,PROP-0021,Evergreen Labs Prospect,Final Review,0.75,2788.02,2091.01,2025-03-03,4126,Renewal Conversation,True
+PIPE-000018,PROP-0021,Beacon Retail Prospect,Lead,0.1,4205.14,420.51,2025-10-15,3332,Website Inquiry,True
+PIPE-000019,PROP-0022,Metro Services Prospect,Closed Won,1.0,5030.82,5030.82,2025-03-18,5104,Market Outreach,True
+PIPE-000020,PROP-0023,Atlas Design Prospect,Negotiation,0.55,5811.55,3196.35,2025-10-30,3439,Market Outreach,True
+PIPE-000021,PROP-0024,Cedar Clinic Prospect,Proposal,0.35,4411.65,1544.08,2025-08-28,3205,Broker Referral,True
+PIPE-000022,PROP-0026,Summit Partners Prospect,Negotiation,0.55,4426.79,2434.74,2025-08-31,1847,Renewal Conversation,True
+PIPE-000023,PROP-0026,Liberty Fitness Prospect,Lead,0.1,4060.14,406.01,2025-08-06,956,Client Referral,True
+PIPE-000024,PROP-0029,Northstar Retail Prospect,Closed Lost,0.0,3739.53,0.0,2025-07-15,1789,Client Referral,True
+PIPE-000025,PROP-0030,Cedar Market Prospect,Negotiation,0.55,3647.19,2005.95,2025-08-17,5607,Renewal Conversation,True
+PIPE-000026,PROP-0030,Brightline Clinic Prospect,Proposal,0.35,3689.97,1291.49,2025-09-02,4920,Broker Referral,True
+PIPE-000027,PROP-0032,Sterling Fitness Prospect,Tour Scheduled,0.2,3074.45,614.89,2025-05-18,902,Website Inquiry,True
+PIPE-000028,PROP-0032,Sterling Partners Prospect,Closed Won,1.0,2415.14,2415.14,2025-01-11,4493,Renewal Conversation,True
+PIPE-000029,PROP-0034,Parkside Partners Prospect,Tour Scheduled,0.2,16065.77,3213.15,2025-12-30,875,Renewal Conversation,True
+PIPE-000030,PROP-0034,Vista Pharmacy Prospect,Final Review,0.75,16833.55,12625.17,2025-12-31,1087,Broker Referral,True
+PIPE-000031,PROP-0035,Brightline Partners Prospect,Lead,0.1,3674.94,367.49,2025-02-24,2726,Client Referral,True
+PIPE-000032,PROP-0035,Harbor Fitness Prospect,Tour Scheduled,0.2,2945.1,589.02,2025-02-20,4579,Client Referral,True
+PIPE-000033,PROP-0037,Brightline Studio Prospect,Negotiation,0.55,13585.18,7471.85,2025-08-22,4252,Renewal Conversation,True
+PIPE-000034,PROP-0037,Summit Group Prospect,Negotiation,0.55,10153.58,5584.47,2025-01-15,2422,Market Outreach,True
+PIPE-000035,PROP-0038,Brightline Consulting Prospect,Lead,0.1,3247.64,324.76,2025-04-15,2479,Renewal Conversation,True
+PIPE-000036,PROP-0038,Northstar Retail Prospect,Closed Lost,0.0,3473.93,0.0,2025-02-22,1589,Market Outreach,True
+PIPE-000037,PROP-0038,Atlas Partners Prospect,Tour Scheduled,0.2,2958.46,591.69,2025-01-12,4628,Renewal Conversation,True
+PIPE-000038,PROP-0039,Hudson Group Prospect,Negotiation,0.55,2605.17,1432.84,2025-05-17,5742,Renewal Conversation,True
+PIPE-000039,PROP-0040,Vista Design Prospect,Lead,0.1,5833.58,583.36,2025-04-12,4112,Market Outreach,True
+PIPE-000040,PROP-0041,Sterling Market Prospect,Tour Scheduled,0.2,17512.18,3502.44,2025-03-05,3361,Broker Referral,True
+PIPE-000041,PROP-0045,Parkside Services Prospect,Tour Scheduled,0.2,10786.57,2157.31,2025-10-06,742,Broker Referral,True
+PIPE-000042,PROP-0045,Cornerstone Labs Prospect,Tour Scheduled,0.2,14173.25,2834.65,2025-10-15,1179,Broker Referral,True
+PIPE-000043,PROP-0046,Cedar Holdings Prospect,Closed Won,1.0,18100.49,18100.49,2025-03-31,1839,Renewal Conversation,True
+PIPE-000044,PROP-0046,Pioneer Group Prospect,Final Review,0.75,22166.69,16625.02,2025-12-27,2401,Market Outreach,True
+PIPE-000045,PROP-0047,Hudson Cafe Prospect,Negotiation,0.55,3798.28,2089.05,2025-07-14,3457,Renewal Conversation,True
+PIPE-000046,PROP-0048,Summit Consulting Prospect,Lead,0.1,14873.58,1487.36,2025-10-05,3894,Broker Referral,True
+PIPE-000047,PROP-0048,Cornerstone Labs Prospect,Proposal,0.35,13230.84,4630.79,2025-05-23,4473,Client Referral,True
+PIPE-000048,PROP-0049,Metro Partners Prospect,Closed Won,1.0,20121.6,20121.6,2025-01-27,2785,Renewal Conversation,True
+PIPE-000049,PROP-0050,Parkside Fitness Prospect,Final Review,0.75,4414.54,3310.9,2025-06-15,3934,Website Inquiry,True
+PIPE-000050,PROP-0051,Pioneer Studio Prospect,Lead,0.1,3371.86,337.19,2025-10-04,1861,Broker Referral,True
+PIPE-000051,PROP-0051,Pioneer Studio Prospect,Lead,0.1,4299.94,429.99,2025-09-28,4702,Market Outreach,True
+PIPE-000052,PROP-0053,Parkside Consulting Prospect,Lead,0.1,3623.2,362.32,2025-03-23,4338,Market Outreach,True
+PIPE-000053,PROP-0054,Beacon Services Prospect,Negotiation,0.55,4881.83,2685.01,2025-04-07,1372,Market Outreach,True
+PIPE-000054,PROP-0055,Urban Retail Prospect,Closed Lost,0.0,1856.21,0.0,2025-11-20,1825,Broker Referral,True
+PIPE-000055,PROP-0056,Brightline Design Prospect,Tour Scheduled,0.2,4645.12,929.02,2025-06-12,1028,Market Outreach,True
+PIPE-000056,PROP-0056,Evergreen Services Prospect,Proposal,0.35,3224.73,1128.65,2025-04-11,5471,Client Referral,True
+PIPE-000057,PROP-0056,Urban Market Prospect,Tour Scheduled,0.2,3535.97,707.19,2025-11-01,5850,Market Outreach,True
+PIPE-000058,PROP-0058,Atlas Market Prospect,Lead,0.1,5837.17,583.72,2025-04-09,5189,Market Outreach,True
+PIPE-000059,PROP-0059,Atlas Retail Prospect,Final Review,0.75,5585.06,4188.79,2025-10-15,1800,Broker Referral,True
+PIPE-000060,PROP-0063,Cedar Pharmacy Prospect,Negotiation,0.55,3092.59,1700.92,2025-10-16,1446,Website Inquiry,True
+PIPE-000061,PROP-0063,Metro Pharmacy Prospect,Negotiation,0.55,3952.14,2173.68,2025-09-08,1336,Website Inquiry,True
+PIPE-000062,PROP-0066,Vista Partners Prospect,Proposal,0.35,19193.1,6717.59,2025-06-15,517,Client Referral,True
+PIPE-000063,PROP-0067,Hudson Consulting Prospect,Proposal,0.35,4704.41,1646.54,2025-09-21,5692,Renewal Conversation,True
+PIPE-000064,PROP-0068,Parkside Studio Prospect,Lead,0.1,3648.08,364.81,2025-03-15,1684,Website Inquiry,True
+PIPE-000065,PROP-0068,Vista Market Prospect,Lead,0.1,3390.38,339.04,2025-12-08,2833,Client Referral,True
+PIPE-000066,PROP-0068,Liberty Group Prospect,Proposal,0.35,3380.92,1183.32,2025-07-20,1552,Renewal Conversation,True
+PIPE-000067,PROP-0069,Beacon Clinic Prospect,Proposal,0.35,12633.3,4421.66,2025-07-29,1703,Market Outreach,True
+PIPE-000068,PROP-0071,Pioneer Group Prospect,Negotiation,0.55,4222.78,2322.53,2025-10-03,4336,Website Inquiry,True
+PIPE-000069,PROP-0071,Apex Design Prospect,Negotiation,0.55,5890.07,3239.54,2025-02-20,3418,Client Referral,True
+PIPE-000070,PROP-0074,Cedar Cafe Prospect,Negotiation,0.55,49436.34,27189.99,2025-10-29,1543,Client Referral,True
+PIPE-000071,PROP-0074,Evergreen Labs Prospect,Proposal,0.35,69503.22,24326.13,2025-08-15,5314,Market Outreach,True
+PIPE-000072,PROP-0076,Apex Studio Prospect,Lead,0.1,7594.29,759.43,2025-10-18,3030,Broker Referral,True
+PIPE-000073,PROP-0076,Vista Clinic Prospect,Negotiation,0.55,6424.56,3533.51,2025-12-12,5698,Client Referral,True
+PIPE-000074,PROP-0077,Evergreen Market Prospect,Final Review,0.75,20695.62,15521.71,2025-09-19,1063,Website Inquiry,True
+PIPE-000075,PROP-0077,Hudson Clinic Prospect,Tour Scheduled,0.2,17863.83,3572.77,2025-08-12,2810,Website Inquiry,True
+PIPE-000076,PROP-0078,Evergreen Market Prospect,Tour Scheduled,0.2,27138.19,5427.64,2025-04-22,3109,Client Referral,True
+PIPE-000077,PROP-0079,Cedar Retail Prospect,Final Review,0.75,78982.81,59237.11,2025-02-09,2904,Client Referral,True
+PIPE-000078,PROP-0080,Parkside Consulting Prospect,Negotiation,0.55,2934.78,1614.13,2025-12-11,4114,Broker Referral,True
+PIPE-000079,PROP-0081,Pioneer Services Prospect,Lead,0.1,10806.41,1080.64,2025-06-05,3098,Renewal Conversation,True
+PIPE-000080,PROP-0081,Liberty Partners Prospect,Proposal,0.35,7089.3,2481.25,2025-09-09,1075,Renewal Conversation,True
+PIPE-000081,PROP-0082,Atlas Cafe Prospect,Closed Lost,0.0,35492.23,0.0,2025-08-01,782,Client Referral,True
+PIPE-000082,PROP-0082,Atlas Cafe Prospect,Final Review,0.75,27530.26,20647.7,2025-04-08,2223,Market Outreach,True
+PIPE-000083,PROP-0082,Atlas Labs Prospect,Proposal,0.35,36137.29,12648.05,2025-08-02,5750,Broker Referral,True
+PIPE-000084,PROP-0083,Urban Cafe Prospect,Closed Won,1.0,5431.59,5431.59,2025-01-24,1336,Client Referral,True
+PIPE-000085,PROP-0085,Cedar Services Prospect,Tour Scheduled,0.2,23334.74,4666.95,2025-01-09,1944,Market Outreach,True
+PIPE-000086,PROP-0085,Cornerstone Market Prospect,Closed Won,1.0,24539.13,24539.13,2025-07-07,3504,Renewal Conversation,True
+PIPE-000087,PROP-0086,Parkside Services Prospect,Negotiation,0.55,11026.3,6064.46,2025-06-19,1886,Market Outreach,True
+PIPE-000088,PROP-0087,Atlas Pharmacy Prospect,Lead,0.1,3156.11,315.61,2025-10-20,3758,Market Outreach,True
+PIPE-000089,PROP-0088,Harbor Studio Prospect,Closed Lost,0.0,10854.78,0.0,2025-06-07,1230,Client Referral,True
+PIPE-000090,PROP-0089,Hudson Cafe Prospect,Lead,0.1,10039.43,1003.94,2025-06-12,2541,Client Referral,True
+PIPE-000091,PROP-0090,Cornerstone Cafe Prospect,Proposal,0.35,1781.02,623.36,2025-11-10,5238,Client Referral,True
+PIPE-000092,PROP-0090,Northstar Partners Prospect,Proposal,0.35,1982.24,693.78,2025-02-27,3019,Broker Referral,True
+PIPE-000093,PROP-0090,Apex Retail Prospect,Tour Scheduled,0.2,1373.4,274.68,2025-10-05,2317,Broker Referral,True
+PIPE-000094,PROP-0091,Brightline Labs Prospect,Lead,0.1,120638.03,12063.8,2025-12-31,3966,Broker Referral,True
+PIPE-000095,PROP-0092,Brightline Labs Prospect,Proposal,0.35,2422.95,848.03,2025-07-26,4616,Renewal Conversation,True
+PIPE-000096,PROP-0093,Urban Labs Prospect,Tour Scheduled,0.2,4488.74,897.75,2025-03-08,5986,Renewal Conversation,True
+PIPE-000097,PROP-0093,Cornerstone Partners Prospect,Negotiation,0.55,5599.18,3079.55,2025-09-10,1438,Website Inquiry,True
+PIPE-000098,PROP-0095,Summit Holdings Prospect,Final Review,0.75,3004.91,2253.68,2025-05-20,688,Renewal Conversation,True
+PIPE-000099,PROP-0096,Metro Clinic Prospect,Lead,0.1,5706.01,570.6,2025-09-11,1691,Renewal Conversation,True
+PIPE-000100,PROP-0096,Harbor Pharmacy Prospect,Negotiation,0.55,5465.69,3006.13,2025-05-27,1258,Renewal Conversation,True
+PIPE-000101,PROP-0096,Brightline Clinic Prospect,Tour Scheduled,0.2,5602.58,1120.52,2025-08-08,1364,Market Outreach,True
+PIPE-000102,PROP-0097,Apex Labs Prospect,Closed Won,1.0,51669.09,51669.09,2025-06-29,4065,Broker Referral,True
+PIPE-000103,PROP-0097,Vista Cafe Prospect,Closed Lost,0.0,47630.35,0.0,2025-02-25,4493,Client Referral,True
+PIPE-000104,PROP-0099,Pioneer Retail Prospect,Tour Scheduled,0.2,3383.94,676.79,2025-07-08,5636,Website Inquiry,True
+PIPE-000105,PROP-0100,Parkside Partners Prospect,Closed Won,1.0,7370.86,7370.86,2025-10-11,2433,Client Referral,True
+PIPE-000106,PROP-0100,Sterling Holdings Prospect,Final Review,0.75,8351.78,6263.83,2025-11-08,5061,Client Referral,True
+PIPE-000107,PROP-0102,Metro Clinic Prospect,Final Review,0.75,2170.46,1627.84,2025-03-30,3291,Renewal Conversation,True
+PIPE-000108,PROP-0104,Apex Studio Prospect,Tour Scheduled,0.2,29972.69,5994.54,2025-10-02,2207,Website Inquiry,True
+PIPE-000109,PROP-0106,Apex Holdings Prospect,Final Review,0.75,14916.0,11187.0,2025-02-02,726,Renewal Conversation,True
+PIPE-000110,PROP-0108,Pioneer Cafe Prospect,Lead,0.1,5984.37,598.44,2025-10-14,5774,Client Referral,True
+PIPE-000111,PROP-0109,Cedar Services Prospect,Proposal,0.35,5233.99,1831.9,2025-08-12,2979,Client Referral,True
+PIPE-000112,PROP-0109,Cedar Pharmacy Prospect,Closed Won,1.0,5089.6,5089.6,2025-08-23,3952,Website Inquiry,True
+PIPE-000113,PROP-0109,Liberty Cafe Prospect,Proposal,0.35,4865.4,1702.89,2025-10-18,3191,Website Inquiry,True
+PIPE-000114,PROP-0110,Metro Retail Prospect,Negotiation,0.55,25151.39,13833.27,2025-05-03,4162,Client Referral,True
+PIPE-000115,PROP-0110,Cornerstone Market Prospect,Proposal,0.35,33755.44,11814.41,2025-10-26,5830,Broker Referral,True
+PIPE-000116,PROP-0110,Metro Fitness Prospect,Lead,0.1,29028.32,2902.83,2025-08-16,2076,Website Inquiry,True
+PIPE-000117,PROP-0111,Vista Studio Prospect,Lead,0.1,29541.91,2954.19,2025-06-15,4971,Market Outreach,True
+PIPE-000118,PROP-0114,Brightline Partners Prospect,Proposal,0.35,1698.24,594.38,2025-08-07,2850,Website Inquiry,True
+PIPE-000119,PROP-0115,Hudson Labs Prospect,Proposal,0.35,2825.07,988.77,2025-10-21,4155,Client Referral,True
+PIPE-000120,PROP-0116,Cornerstone Market Prospect,Tour Scheduled,0.2,3340.1,668.02,2025-11-21,2338,Market Outreach,True
+PIPE-000121,PROP-0117,Pioneer Studio Prospect,Closed Won,1.0,2655.82,2655.82,2025-02-15,5310,Client Referral,True
+PIPE-000122,PROP-0118,Liberty Clinic Prospect,Tour Scheduled,0.2,18735.72,3747.14,2025-09-19,3158,Renewal Conversation,True
+PIPE-000123,PROP-0119,Harbor Partners Prospect,Proposal,0.35,6443.79,2255.33,2025-04-08,5193,Renewal Conversation,True
+PIPE-000124,PROP-0120,Northstar Pharmacy Prospect,Proposal,0.35,44815.44,15685.4,2025-04-25,1285,Client Referral,True
+PIPE-000125,PROP-0121,Parkside Group Prospect,Closed Won,1.0,3312.14,3312.14,2025-11-01,2570,Client Referral,True
+PIPE-000126,PROP-0121,Apex Clinic Prospect,Proposal,0.35,3873.64,1355.77,2025-04-24,4554,Client Referral,True
+PIPE-000127,PROP-0121,Cedar Holdings Prospect,Final Review,0.75,3787.5,2840.63,2025-12-06,2014,Market Outreach,True
+PIPE-000128,PROP-0123,Urban Cafe Prospect,Lead,0.1,7088.26,708.83,2025-08-28,1604,Client Referral,True
+PIPE-000129,PROP-0124,Hudson Retail Prospect,Lead,0.1,6869.95,686.99,2025-04-04,5122,Broker Referral,True
+PIPE-000130,PROP-0124,Hudson Services Prospect,Lead,0.1,6243.05,624.3,2025-01-16,1877,Client Referral,True
+PIPE-000131,PROP-0124,Pioneer Retail Prospect,Negotiation,0.55,6840.74,3762.41,2025-11-21,1554,Broker Referral,True
+PIPE-000132,PROP-0126,Urban Partners Prospect,Lead,0.1,6626.18,662.62,2025-08-19,3726,Renewal Conversation,True
+PIPE-000133,PROP-0129,Cedar Clinic Prospect,Lead,0.1,23803.14,2380.31,2025-07-20,913,Renewal Conversation,True
+PIPE-000134,PROP-0130,Summit Holdings Prospect,Proposal,0.35,2330.04,815.51,2025-05-14,2224,Website Inquiry,True
+PIPE-000135,PROP-0131,Brightline Partners Prospect,Negotiation,0.55,3790.54,2084.8,2025-03-26,5297,Market Outreach,True
+PIPE-000136,PROP-0132,Liberty Fitness Prospect,Negotiation,0.55,81247.66,44686.21,2025-03-23,604,Website Inquiry,True
+PIPE-000137,PROP-0132,Cedar Consulting Prospect,Lead,0.1,121002.06,12100.21,2025-09-07,1383,Website Inquiry,True
+PIPE-000138,PROP-0133,Harbor Group Prospect,Negotiation,0.55,19774.91,10876.2,2025-04-17,5596,Market Outreach,True
+PIPE-000139,PROP-0133,Metro Group Prospect,Negotiation,0.55,19973.24,10985.28,2025-11-08,2667,Client Referral,True
+PIPE-000140,PROP-0134,Liberty Retail Prospect,Negotiation,0.55,2378.61,1308.24,2025-12-08,2422,Renewal Conversation,True
+PIPE-000141,PROP-0135,Northstar Labs Prospect,Lead,0.1,71758.25,7175.82,2025-01-01,3822,Renewal Conversation,True
+PIPE-000142,PROP-0135,Brightline Partners Prospect,Proposal,0.35,80696.89,28243.91,2025-12-31,831,Client Referral,True
+PIPE-000143,PROP-0135,Beacon Clinic Prospect,Proposal,0.35,61029.04,21360.16,2025-06-04,4515,Website Inquiry,True
+PIPE-000144,PROP-0136,Sterling Market Prospect,Negotiation,0.55,2895.04,1592.27,2025-08-04,5604,Renewal Conversation,True
+PIPE-000145,PROP-0136,Liberty Design Prospect,Tour Scheduled,0.2,2798.29,559.66,2025-02-08,4180,Broker Referral,True
+PIPE-000146,PROP-0136,Vista Holdings Prospect,Lead,0.1,3514.81,351.48,2025-07-01,692,Website Inquiry,True
+PIPE-000147,PROP-0137,Cedar Group Prospect,Closed Won,1.0,2256.41,2256.41,2025-02-02,1115,Website Inquiry,True
+PIPE-000148,PROP-0137,Northstar Studio Prospect,Proposal,0.35,1635.77,572.52,2025-05-30,1854,Broker Referral,True
+PIPE-000149,PROP-0138,Liberty Market Prospect,Closed Lost,0.0,15514.56,0.0,2025-08-01,5221,Market Outreach,True
+PIPE-000150,PROP-0139,Evergreen Cafe Prospect,Lead,0.1,3763.34,376.33,2025-02-26,1103,Market Outreach,True
+PIPE-000151,PROP-0142,Atlas Retail Prospect,Proposal,0.35,11684.47,4089.57,2025-12-22,3828,Client Referral,True
+PIPE-000152,PROP-0144,Sterling Consulting Prospect,Tour Scheduled,0.2,15573.41,3114.68,2025-05-31,4443,Renewal Conversation,True
+PIPE-000153,PROP-0145,Atlas Studio Prospect,Closed Lost,0.0,24870.04,0.0,2025-01-05,2377,Renewal Conversation,True
+PIPE-000154,PROP-0146,Liberty Partners Prospect,Lead,0.1,8446.66,844.67,2025-02-25,5489,Renewal Conversation,True
+PIPE-000155,PROP-0148,Apex Holdings Prospect,Tour Scheduled,0.2,4161.41,832.28,2025-11-29,4466,Renewal Conversation,True
+PIPE-000156,PROP-0149,Sterling Retail Prospect,Lead,0.1,6553.11,655.31,2025-01-07,2117,Website Inquiry,True
+PIPE-000157,PROP-0149,Parkside Consulting Prospect,Tour Scheduled,0.2,6660.23,1332.05,2025-06-17,1685,Renewal Conversation,True
+PIPE-000158,PROP-0151,Hudson Clinic Prospect,Closed Lost,0.0,14605.98,0.0,2025-04-15,3733,Website Inquiry,True
+PIPE-000159,PROP-0151,Pioneer Cafe Prospect,Negotiation,0.55,12663.59,6964.98,2025-04-27,4056,Broker Referral,True
+PIPE-000160,PROP-0153,Metro Design Prospect,Tour Scheduled,0.2,11538.06,2307.61,2025-07-25,2315,Broker Referral,True
+PIPE-000161,PROP-0154,Beacon Labs Prospect,Lead,0.1,2360.87,236.09,2025-12-12,2370,Website Inquiry,True
+PIPE-000162,PROP-0155,Atlas Retail Prospect,Negotiation,0.55,2468.97,1357.94,2025-07-01,1099,Market Outreach,True
+PIPE-000163,PROP-0155,Evergreen Design Prospect,Closed Lost,0.0,2911.52,0.0,2025-11-16,3196,Renewal Conversation,True
+PIPE-000164,PROP-0156,Beacon Fitness Prospect,Tour Scheduled,0.2,7760.34,1552.07,2025-10-02,3814,Renewal Conversation,True
+PIPE-000165,PROP-0157,Cornerstone Labs Prospect,Final Review,0.75,4111.19,3083.39,2025-02-08,5683,Website Inquiry,True
+PIPE-000166,PROP-0160,Harbor Clinic Prospect,Final Review,0.75,3916.1,2937.07,2025-10-10,5642,Website Inquiry,True
+PIPE-000167,PROP-0162,Apex Market Prospect,Final Review,0.75,4661.85,3496.39,2025-08-25,5416,Broker Referral,True
+PIPE-000168,PROP-0163,Vista Design Prospect,Lead,0.1,4470.32,447.03,2025-08-16,644,Website Inquiry,True
+PIPE-000169,PROP-0164,Atlas Partners Prospect,Tour Scheduled,0.2,6810.56,1362.11,2025-08-28,5492,Market Outreach,True
+PIPE-000170,PROP-0165,Summit Design Prospect,Closed Lost,0.0,3080.95,0.0,2025-09-12,3000,Renewal Conversation,True
+PIPE-000171,PROP-0165,Urban Services Prospect,Tour Scheduled,0.2,3256.63,651.33,2025-05-14,3287,Market Outreach,True
+PIPE-000172,PROP-0167,Atlas Services Prospect,Lead,0.1,10198.13,1019.81,2025-05-23,2250,Website Inquiry,True
+PIPE-000173,PROP-0168,Cornerstone Market Prospect,Proposal,0.35,30241.57,10584.55,2025-12-15,2537,Broker Referral,True
+PIPE-000174,PROP-0170,Parkside Clinic Prospect,Negotiation,0.55,99921.86,54957.03,2025-06-20,5650,Renewal Conversation,True
+PIPE-000175,PROP-0170,Cedar Group Prospect,Final Review,0.75,144274.62,108205.97,2025-02-14,1470,Renewal Conversation,True
+PIPE-000176,PROP-0173,Vista Fitness Prospect,Proposal,0.35,6233.7,2181.79,2025-01-18,1032,Website Inquiry,True
+PIPE-000177,PROP-0173,Cornerstone Retail Prospect,Tour Scheduled,0.2,7014.5,1402.9,2025-02-18,3234,Market Outreach,True
+PIPE-000178,PROP-0174,Cedar Services Prospect,Lead,0.1,15644.25,1564.42,2025-04-10,4651,Renewal Conversation,True
+PIPE-000179,PROP-0175,Evergreen Labs Prospect,Lead,0.1,2495.92,249.59,2025-10-21,2662,Market Outreach,True

@@ -1,0 +1,176 @@
+Property ID,Property Address,Borough,Neighborhood,Asset Type,Property Manager,Total Work Orders,Active Backlog Count,Open Work Orders,In Progress Work Orders,Closed Work Orders,Overdue Work Orders,Overdue Active Backlog Count,Critical Priority Count,High Priority Count,Largest Active Backlog Category,Largest Active Backlog Count,Vendors Assigned,Estimated Work Order Cost,Average Days to Close,Latest Opened Date,Backlog Status
+PROP-0170,465 WEST 23 STREET,Manhattan,CHELSEA,Mixed-Use Condo,Casey Rivera,102,19,10,9,83,24,9,3,12,Elevator,6,9,54035.61,7.3,2025-12-27,Immediate backlog review
+PROP-0135,160 WEST END AVENUE,Manhattan,UPPER WEST SIDE (59-79),Residential Condo,Avery Johnson,79,17,11,6,62,17,8,4,15,HVAC,3,9,43637.86,6.8,2025-12-25,Immediate backlog review
+PROP-0171,25 CENTRAL PARK WEST,Manhattan,UPPER WEST SIDE (59-79),Mixed-Use Condo,Cameron Brooks,78,20,9,11,58,16,7,5,14,HVAC,6,9,42325.16,6.1,2025-12-28,Immediate backlog review
+PROP-0016,252 7 AVENUE,Manhattan,CHELSEA,Multifamily Condo,Riley Chen,49,12,4,8,37,14,7,6,8,Elevator,3,9,39840.59,6.4,2025-12-26,Immediate backlog review
+PROP-0002,7 NAVY PIER COURT,Staten Island,TOMPKINSVILLE,Mixed-Use Condo,Cameron Brooks,73,23,13,10,50,13,6,0,15,Janitorial,6,9,40051.37,6.4,2025-12-26,Immediate backlog review
+PROP-0097,416 WEST 52 STREET,Manhattan,CLINTON,Multifamily Condo,Casey Rivera,42,14,6,8,28,10,5,4,6,Common Area,3,9,20556.47,6.4,2025-12-21,Immediate backlog review
+PROP-0079,200 EAST 94 STREET,Manhattan,UPPER EAST SIDE (79-96),Multifamily Condo,Morgan Patel,49,14,9,5,35,11,5,3,9,Elevator,3,9,29227.13,6.9,2025-12-28,Immediate backlog review
+PROP-0084,886 WESTCHESTER AVENUE,Bronx,MORRISANIA/LONGWOOD,Multifamily Condo,Avery Johnson,34,14,7,7,20,10,5,1,5,Preventive Maintenance,4,9,17631.74,8.3,2025-12-14,Immediate backlog review
+PROP-0169,885 AVENUE OF THE AMERICA,Manhattan,FASHION,Multifamily Condo,Samira Khan,53,12,6,6,41,12,5,0,12,Electrical,3,9,25479.89,6.7,2025-12-27,Immediate backlog review
+PROP-0122,27 KING STREET,Manhattan,SOHO,Residential Condo,Cameron Brooks,26,8,1,7,18,9,5,2,6,Electrical,3,8,20980.02,7.1,2025-12-21,Immediate backlog review
+PROP-0104,10 NEVINS STREET,Brooklyn,DOWNTOWN-FULTON MALL,Residential Condo,Nadia Williams,38,6,2,4,32,8,5,2,8,Elevator,3,9,27505.22,6.6,2025-12-08,Immediate backlog review
+PROP-0129,520 EAST 81 STREET,Manhattan,UPPER EAST SIDE (79-96),Residential Condo,Jordan Lee,49,16,7,9,33,9,4,2,4,Common Area,3,9,24771.8,7.8,2025-12-18,Immediate backlog review
+PROP-0049,220 EAST 60 STREET,Manhattan,UPPER EAST SIDE (59-79),Retail-Adjacent Condo,Avery Johnson,51,11,5,6,40,7,4,5,11,HVAC,4,9,36548.34,4.1,2025-12-19,Immediate backlog review
+PROP-0106,467 CENTRAL PARK WEST,Manhattan,MANHATTAN VALLEY,Multifamily Condo,Cameron Brooks,32,9,4,5,23,7,4,2,6,Elevator,3,9,15464.84,6.4,2025-12-27,Immediate backlog review
+PROP-0047,3536 CAMBRIDGE AVENUE,Bronx,RIVERDALE,Residential Condo,Drew Thompson,24,8,6,2,16,6,4,1,3,Elevator,2,9,13734.2,7.7,2025-12-12,Immediate backlog review
+PROP-0001,354 BROADWAY,Manhattan,CHINATOWN,Mixed-Use Condo,Drew Thompson,16,8,3,5,8,8,4,0,4,Electrical,2,8,8560.04,12.0,2025-11-15,Immediate backlog review
+PROP-0045,55 3 AVENUE,Manhattan,EAST VILLAGE,Residential Condo,Casey Rivera,29,7,3,4,22,7,4,3,6,Common Area,2,9,16735.49,7.0,2025-12-26,Immediate backlog review
+PROP-0072,700 RIVERSIDE DRIVE,Manhattan,HARLEM-UPPER,Multifamily Condo,Avery Johnson,22,7,2,5,15,7,4,1,7,Common Area,1,9,16046.36,8.6,2025-12-23,Immediate backlog review
+PROP-0030,200 SOUTH 2 STREET,Brooklyn,WILLIAMSBURG-SOUTH,Multifamily Condo,Avery Johnson,21,7,2,5,14,5,4,1,5,Electrical,2,9,8647.02,7.1,2025-12-11,Immediate backlog review
+PROP-0168,57 READE STREET,Manhattan,CIVIC CENTER,Mixed-Use Condo,Drew Thompson,21,6,1,5,15,8,4,3,5,Common Area,2,7,16726.14,5.9,2025-12-10,Immediate backlog review
+PROP-0011,24 DUNHAM PLACE,Brooklyn,WILLIAMSBURG-SOUTH,Residential Condo,Riley Chen,18,5,1,4,13,6,4,4,3,Preventive Maintenance,2,8,19598.11,4.8,2025-11-19,Immediate backlog review
+PROP-0041,601 WEST 41 STREET,Manhattan,CLINTON,Multifamily Condo,Nadia Williams,17,5,3,2,12,8,4,2,2,Preventive Maintenance,2,8,11886.27,8.5,2025-12-15,Immediate backlog review
+PROP-0007,51 EAST 131 STREET,Manhattan,HARLEM-CENTRAL,Residential Condo,Taylor Morgan,26,5,1,4,21,7,4,1,7,HVAC,1,8,17233.09,6.9,2025-12-01,Immediate backlog review
+PROP-0140,80 RICHMOND HILL ROAD,Staten Island,NEW SPRINGVILLE,Multifamily Condo,Taylor Morgan,57,13,8,5,44,13,3,6,11,Electrical,3,9,39239.82,6.8,2025-12-14,Immediate backlog review
+PROP-0074,30-02 39 AVENUE,Queens,LONG ISLAND CITY,Residential Condo,Cameron Brooks,46,12,4,8,34,7,3,0,8,HVAC,3,9,23434.45,6.9,2025-12-14,Immediate backlog review
+PROP-0173,420 LEXINGTON AVENUE,Brooklyn,BEDFORD STUYVESANT,Multifamily Condo,Drew Thompson,35,10,6,4,25,6,3,3,4,HVAC,4,9,23184.4,6.6,2025-12-14,Immediate backlog review
+PROP-0086,11-24 31 AVENUE,Queens,ASTORIA,Residential Condo,Casey Rivera,23,8,4,4,15,4,3,1,1,Security,2,8,11086.26,6.1,2025-12-25,Immediate backlog review
+PROP-0076,1078 FULTON STREET,Brooklyn,BEDFORD STUYVESANT,Multifamily Condo,Jordan Lee,26,7,6,1,19,7,3,0,8,Plumbing,2,9,18636.29,6.7,2025-12-24,Immediate backlog review
+PROP-0042,205 BLEECKER STREET,Manhattan,GREENWICH VILLAGE-CENTRAL,Multifamily Condo,Casey Rivera,18,6,3,3,12,4,3,1,6,Janitorial,2,8,10471.95,4.7,2025-12-28,Immediate backlog review
+PROP-0010,72 BERRY STREET,Brooklyn,WILLIAMSBURG-NORTH,Multifamily Condo,Cameron Brooks,27,5,3,2,22,7,3,3,6,Common Area,2,9,21887.45,7.4,2025-12-11,Immediate backlog review
+PROP-0085,102 BRADHURST AVENUE,Manhattan,HARLEM-CENTRAL,Residential Condo,Nadia Williams,36,5,3,2,31,7,3,2,10,Common Area,1,8,21920.5,6.5,2025-12-26,Immediate backlog review
+PROP-0036,130 BRADHURST AVENUE,Manhattan,HARLEM-CENTRAL,Multifamily Condo,Drew Thompson,29,5,2,3,24,8,3,1,7,Common Area,1,9,17440.75,7.0,2025-12-26,Immediate backlog review
+PROP-0073,1530 EAST 15 STREET,Brooklyn,MIDWOOD,Multifamily Condo,Cameron Brooks,21,4,2,2,17,6,3,2,3,Common Area,1,9,10575.89,6.0,2025-11-21,Immediate backlog review
+PROP-0158,31 NORTH MOORE STREET,Manhattan,TRIBECA,Multifamily Condo,Avery Johnson,17,4,2,2,13,5,3,1,4,Common Area,1,8,12041.57,6.1,2025-12-19,Immediate backlog review
+PROP-0096,302 BROOME STREET,Manhattan,LOWER EAST SIDE,Multifamily Condo,Drew Thompson,13,3,0,3,10,6,3,1,4,Common Area,1,8,6667.96,6.9,2025-12-22,Immediate backlog review
+PROP-0061,4215 PARK AVENUE,Bronx,BATHGATE,Multifamily Condo,Samira Khan,38,11,5,6,27,5,2,1,2,Electrical,3,9,19132.84,5.7,2025-12-17,Immediate backlog review
+PROP-0056,3015 BRIGHTON 6 STREET,Brooklyn,BRIGHTON BEACH,Mixed-Use Condo,Samira Khan,30,11,6,5,19,8,2,0,2,Elevator,3,9,10269.78,6.5,2025-12-22,Immediate backlog review
+PROP-0107,2 ELMWOOD PARK DRIVE,Staten Island,NEW SPRINGVILLE,Residential Condo,Jordan Lee,34,10,6,4,24,9,2,4,6,Plumbing,2,9,24787.43,7.3,2025-12-26,Immediate backlog review
+PROP-0037,429 GREENWICH STREET,Manhattan,TRIBECA,Multifamily Condo,Jordan Lee,29,8,6,2,21,3,2,0,5,Elevator,2,9,19771.01,5.9,2025-12-13,Immediate backlog review
+PROP-0132,1 CENTRAL PARK WEST,Manhattan,UPPER WEST SIDE (59-79),Multifamily Condo,Taylor Morgan,45,7,5,2,38,11,2,2,7,Common Area,2,9,33557.44,8.1,2025-12-20,Immediate backlog review
+PROP-0077,510 EAST 80 STREET,Manhattan,UPPER EAST SIDE (79-96),Residential Condo,Casey Rivera,19,7,3,4,12,3,2,2,1,Preventive Maintenance,2,7,7448.38,5.7,2025-12-01,Immediate backlog review
+PROP-0118,195 HUDSON STREET,Manhattan,TRIBECA,Multifamily Condo,Riley Chen,23,7,6,1,16,5,2,1,4,Common Area,2,8,14082.07,6.2,2025-12-16,Immediate backlog review
+PROP-0026,94 SKILLMAN STREET,Brooklyn,BEDFORD STUYVESANT,Multifamily Condo,Jordan Lee,16,7,5,2,9,3,2,1,2,Security,3,6,9977.79,4.4,2025-12-15,Immediate backlog review
+PROP-0147,155 BAY STREET,Staten Island,NEW BRIGHTON-ST. GEORGE,Mixed-Use Condo,Avery Johnson,20,6,3,3,14,4,2,2,4,HVAC,4,8,12772.25,6.9,2025-12-07,Immediate backlog review
+PROP-0161,491 GREENWICH STREET,Manhattan,SOHO,Multifamily Condo,Samira Khan,26,6,3,3,20,5,2,1,6,Security,2,9,20447.13,6.0,2025-12-15,Immediate backlog review
+PROP-0109,121 WELLINGTON COURT,Staten Island,NEW SPRINGVILLE,Multifamily Condo,Drew Thompson,32,6,2,4,26,5,2,1,8,Electrical,2,9,19781.79,5.4,2025-12-18,Immediate backlog review
+PROP-0090,59 CONSELYEA STREET,Brooklyn,WILLIAMSBURG-EAST,Multifamily Condo,Cameron Brooks,15,6,6,0,9,2,2,1,3,Janitorial,2,8,6989.01,4.9,2025-12-01,Immediate backlog review
+PROP-0023,150 FEATHERBED LANE,Bronx,HIGHBRIDGE/MORRIS HEIGHTS,Multifamily Condo,Drew Thompson,23,6,2,4,17,5,2,0,3,Security,2,8,15185.83,7.1,2025-12-10,Immediate backlog review
+PROP-0172,156 SACKETT STREET,Brooklyn,COBBLE HILL-WEST,Residential Condo,Riley Chen,12,6,2,4,6,4,2,0,3,Electrical,2,9,5688.23,6.5,2025-12-02,Immediate backlog review
+PROP-0119,318 WARREN STREET,Brooklyn,BOERUM HILL,Retail-Adjacent Condo,Nadia Williams,27,5,1,4,22,7,2,2,4,Plumbing,2,9,16103.85,7.5,2025-12-20,Immediate backlog review
+PROP-0038,950 41 STREET,Brooklyn,BOROUGH PARK,Multifamily Condo,Riley Chen,12,5,2,3,7,2,2,2,1,Common Area,1,8,9215.47,2.7,2025-12-07,Immediate backlog review
+PROP-0060,200 EAST 58 STREET,Manhattan,MIDTOWN EAST,Multifamily Condo,Casey Rivera,29,5,1,4,24,9,2,1,7,Tenant Request,2,8,21774.28,8.2,2025-12-27,Immediate backlog review
+PROP-0069,90 BAY STREET LANDING,Staten Island,NEW BRIGHTON-ST. GEORGE,Multifamily Condo,Jordan Lee,28,5,2,3,23,4,2,1,7,Janitorial,2,9,16162.71,5.9,2025-12-20,Immediate backlog review
+PROP-0103,7 GRAMERCY PARK WEST,Manhattan,GRAMERCY,Multifamily Condo,Nadia Williams,16,5,4,1,11,4,2,1,5,Elevator,3,7,15058.84,6.5,2025-12-25,Immediate backlog review
+PROP-0067,401 BEDFORD AVENUE,Brooklyn,WILLIAMSBURG-SOUTH,Residential Condo,Cameron Brooks,18,5,4,1,13,4,2,1,5,Elevator,2,8,11318.98,6.3,2025-11-13,Immediate backlog review
+PROP-0115,25-47 23 STREET,Queens,ASTORIA,Multifamily Condo,Taylor Morgan,16,5,2,3,11,6,2,1,2,Common Area,1,9,9530.07,9.9,2025-12-24,Immediate backlog review
+PROP-0112,45 EAST 80 STREET,Manhattan,UPPER EAST SIDE (79-96),Multifamily Condo,Riley Chen,18,5,2,3,13,4,2,0,3,Janitorial,2,8,10135.55,8.0,2025-12-27,Immediate backlog review
+PROP-0065,3427 BRUCKNER BOULEVARD,Bronx,SCHUYLERVILLE/PELHAM BAY,Multifamily Condo,Morgan Patel,20,4,1,3,16,3,2,5,4,Electrical,2,7,29429.57,3.3,2025-12-27,Immediate backlog review
+PROP-0136,55-16 MAIN STREET,Queens,FLUSHING-NORTH,Mixed-Use Condo,Jordan Lee,17,4,2,2,13,5,2,5,3,Elevator,1,7,17177.57,6.3,2025-12-15,Immediate backlog review
+PROP-0166,207 EAST 57 STREET,Manhattan,MIDTOWN EAST,Multifamily Condo,Drew Thompson,21,4,3,1,17,3,2,3,3,Security,2,9,13738.5,5.7,2025-12-23,Immediate backlog review
+PROP-0028,40-01 LITTLE NECK PARKWAY,Queens,LITTLE NECK,Multifamily Condo,Cameron Brooks,27,4,4,0,23,8,2,2,6,Elevator,2,9,21044.5,8.1,2025-12-10,Immediate backlog review
+PROP-0039,1972 OCEAN AVENUE,Brooklyn,MIDWOOD,Mixed-Use Condo,Drew Thompson,16,4,2,2,12,3,2,1,2,Elevator,2,8,12130.52,6.4,2025-09-21,Immediate backlog review
+PROP-0092,5024 10 AVENUE,Brooklyn,BOROUGH PARK,Residential Condo,Nadia Williams,11,4,4,0,7,3,2,1,4,Common Area,1,7,11298.47,6.4,2025-12-24,Immediate backlog review
+PROP-0054,35 WEST END AVENUE,Brooklyn,MANHATTAN BEACH,Multifamily Condo,Taylor Morgan,14,4,1,3,10,5,2,1,3,HVAC,3,8,11109.74,7.9,2025-12-16,Immediate backlog review
+PROP-0078,250 EAST HOUSTON STREET,Manhattan,ALPHABET CITY,Multifamily Condo,Avery Johnson,17,4,3,1,13,4,2,1,2,Plumbing,2,8,8079.44,5.9,2025-12-27,Immediate backlog review
+PROP-0141,645 LEFFERTS AVENUE,Brooklyn,FLATBUSH-NORTH,Mixed-Use Condo,Avery Johnson,13,4,3,1,9,4,2,1,0,Common Area,1,9,6257.62,9.0,2025-12-11,Immediate backlog review
+PROP-0159,79 LAIGHT STREET,Manhattan,TRIBECA,Multifamily Condo,Jordan Lee,22,4,2,2,18,7,2,0,5,Electrical,1,8,16083.6,9.0,2025-12-04,Immediate backlog review
+PROP-0142,83-09 TALBOT STREET,Queens,KEW GARDENS,Multifamily Condo,Taylor Morgan,24,4,3,1,20,3,2,0,4,Tenant Request,2,8,12477.78,5.0,2025-12-11,Immediate backlog review
+PROP-0093,269 EAST BURNSIDE AVENUE,Bronx,FORDHAM,Multifamily Condo,Avery Johnson,22,4,3,1,18,6,2,0,4,Preventive Maintenance,2,9,12096.74,9.2,2025-12-25,Immediate backlog review
+PROP-0150,42 SKILLMAN STREET,Brooklyn,BEDFORD STUYVESANT,Multifamily Condo,Drew Thompson,18,4,1,3,14,5,2,0,2,Plumbing,2,7,9889.97,7.6,2025-12-07,Immediate backlog review
+PROP-0025,100 STERLING PLACE,Brooklyn,PARK SLOPE,Multifamily Condo,Drew Thompson,15,3,1,2,12,6,2,2,3,Janitorial,2,9,11690.21,8.8,2025-12-22,Immediate backlog review
+PROP-0101,63-26 99 STREET,Queens,REGO PARK,Multifamily Condo,Drew Thompson,10,3,1,2,7,3,2,2,1,Elevator,1,8,9529.53,8.1,2025-11-07,Immediate backlog review
+PROP-0040,44 BUTLER PLACE,Brooklyn,PROSPECT HEIGHTS,Mixed-Use Condo,Morgan Patel,27,3,2,1,24,5,2,0,5,Tenant Request,2,9,12549.0,5.6,2025-12-08,Immediate backlog review
+PROP-0152,2803 OCEAN PARKWAY,Brooklyn,BRIGHTON BEACH,Residential Condo,Avery Johnson,9,3,2,1,6,2,2,0,2,Plumbing,1,6,5710.86,2.7,2025-09-19,Immediate backlog review
+PROP-0133,9 BARROW STREET,Manhattan,GREENWICH VILLAGE-WEST,Residential Condo,Cameron Brooks,28,2,1,1,26,3,2,2,3,Tenant Request,2,9,19348.52,4.7,2025-11-26,Immediate backlog review
+PROP-0155,120 WELLINGTON COURT,Staten Island,NEW SPRINGVILLE,Residential Condo,Taylor Morgan,13,2,1,1,11,4,2,1,4,Elevator,1,8,15007.24,8.5,2025-10-23,Immediate backlog review
+PROP-0100,18 ORCHARD STREET,Manhattan,LOWER EAST SIDE,Residential Condo,Taylor Morgan,14,2,1,1,12,3,2,0,4,Janitorial,1,8,9287.17,4.1,2025-12-14,Immediate backlog review
+PROP-0091,321 5 AVENUE,Manhattan,MURRAY HILL,Residential Condo,Taylor Morgan,42,9,3,6,33,7,1,6,8,Plumbing,3,9,28488.73,5.9,2025-11-27,Immediate backlog review
+PROP-0110,339 EAST 74 STREET,Manhattan,UPPER EAST SIDE (59-79),Multifamily Condo,Riley Chen,33,8,2,6,25,9,1,0,6,Elevator,2,9,13863.23,7.8,2025-12-10,Immediate backlog review
+PROP-0033,550 VANDERBILT AVENUE,Brooklyn,PROSPECT HEIGHTS,Multifamily Condo,Nadia Williams,55,7,6,1,48,9,1,3,5,Plumbing,2,9,32632.85,6.0,2025-12-23,Immediate backlog review
+PROP-0111,260 PARK AVENUE SOUTH,Manhattan,FLATIRON,Mixed-Use Condo,Casey Rivera,24,7,2,5,17,3,1,0,4,Electrical,2,9,10748.31,7.5,2025-12-27,Immediate backlog review
+PROP-0117,346 EAST 21 STREET,Manhattan,KIPS BAY,Multifamily Condo,Jordan Lee,23,6,5,1,17,7,1,3,3,Common Area,2,8,20237.33,7.2,2025-12-25,Immediate backlog review
+PROP-0009,1154 1 AVENUE,Manhattan,UPPER EAST SIDE (59-79),Residential Condo,Jordan Lee,18,6,1,5,12,3,1,2,0,HVAC,2,8,9403.78,8.0,2025-11-01,Immediate backlog review
+PROP-0128,285 DRIGGS AVENUE,Brooklyn,GREENPOINT,Multifamily Condo,Jordan Lee,13,6,4,2,7,2,1,1,2,Electrical,2,6,16714.48,3.6,2025-12-20,Immediate backlog review
+PROP-0125,48 BEACH STREET,Manhattan,TRIBECA,Multifamily Condo,Avery Johnson,17,6,2,4,11,5,1,0,5,HVAC,2,9,10550.7,8.9,2025-12-08,Immediate backlog review
+PROP-0146,2300 FREDERICK DOUGLASS BLVD.,Manhattan,HARLEM-CENTRAL,Retail-Adjacent Condo,Nadia Williams,22,5,3,2,17,3,1,1,7,Tenant Request,2,8,15795.31,4.8,2025-12-21,Immediate backlog review
+PROP-0139,898 BEDFORD AVENUE,Brooklyn,BEDFORD STUYVESANT,Multifamily Condo,Cameron Brooks,20,5,3,2,15,3,1,1,4,Electrical,2,9,11928.78,6.0,2025-12-11,Immediate backlog review
+PROP-0138,63-36 99 STREET,Queens,REGO PARK,Multifamily Condo,Cameron Brooks,18,5,2,3,13,2,1,1,2,Plumbing,2,7,10493.88,5.7,2025-12-06,Immediate backlog review
+PROP-0052,150 EAST 37 STREET,Manhattan,MURRAY HILL,Mixed-Use Condo,Riley Chen,17,5,2,3,12,3,1,1,2,Preventive Maintenance,3,8,8725.51,9.1,2025-12-15,Immediate backlog review
+PROP-0008,145 LINCOLN AVENUE,Staten Island,GRANT CITY,Multifamily Condo,Morgan Patel,32,5,2,3,27,5,1,0,5,Electrical,1,9,15750.08,7.4,2025-12-27,Immediate backlog review
+PROP-0081,14 EAST 33 STREET,Manhattan,MURRAY HILL,Multifamily Condo,Riley Chen,22,5,2,3,17,3,1,0,2,HVAC,2,8,12021.06,6.4,2025-12-28,Immediate backlog review
+PROP-0108,2 PRINCE STREET,Manhattan,LITTLE ITALY,Multifamily Condo,Taylor Morgan,21,5,4,1,16,2,1,0,4,Common Area,2,9,11918.19,4.8,2025-12-20,Immediate backlog review
+PROP-0020,299 BEDFORD AVENUE,Brooklyn,WILLIAMSBURG-SOUTH,Retail-Adjacent Condo,Riley Chen,13,5,2,3,8,3,1,0,4,Preventive Maintenance,3,8,8274.23,5.9,2025-11-08,Immediate backlog review
+PROP-0121,81-18 QUEENS BOULEVARD,Queens,ELMHURST,Mixed-Use Condo,Riley Chen,14,5,2,3,9,4,1,0,1,Common Area,1,7,5119.35,11.1,2025-12-14,Immediate backlog review
+PROP-0059,31 MONROE STREET,Manhattan,LOWER EAST SIDE,Multifamily Condo,Riley Chen,25,4,2,2,21,4,1,2,0,Plumbing,2,9,11724.35,9.1,2025-12-21,Immediate backlog review
+PROP-0130,311 ST NICHOLAS AVENUE,Queens,RIDGEWOOD,Multifamily Condo,Taylor Morgan,17,4,2,2,13,3,1,1,3,Elevator,2,7,13207.39,7.1,2025-11-20,Immediate backlog review
+PROP-0099,30 RUTGERS STREET,Manhattan,LOWER EAST SIDE,Multifamily Condo,Riley Chen,14,4,2,2,10,3,1,1,2,Janitorial,1,7,11816.08,6.2,2025-12-22,Immediate backlog review
+PROP-0134,755 40 STREET,Brooklyn,SUNSET PARK,Mixed-Use Condo,Samira Khan,16,4,2,2,12,3,1,1,5,Common Area,1,7,10277.51,4.1,2025-12-28,Immediate backlog review
+PROP-0003,113 ELDRIDGE STREET,Manhattan,LOWER EAST SIDE,Mixed-Use Condo,Riley Chen,14,4,2,2,10,2,1,1,4,Common Area,1,9,7441.41,4.6,2025-12-06,Immediate backlog review
+PROP-0022,2408 OCEAN AVENUE,Brooklyn,MADISON,Multifamily Condo,Avery Johnson,14,4,3,1,10,3,1,1,2,Tenant Request,2,6,6114.19,8.1,2025-09-07,Immediate backlog review
+PROP-0098,151 WEST 17 STREET,Manhattan,CHELSEA,Residential Condo,Nadia Williams,13,4,1,3,9,3,1,1,3,Common Area,1,7,5943.39,7.7,2025-12-20,Immediate backlog review
+PROP-0160,64-86 WETHEROLE STREET,Queens,15TH Q QUEENS,Mixed-Use Condo,Casey Rivera,23,4,1,3,19,4,1,0,5,Electrical,1,9,14411.4,6.6,2025-12-09,Immediate backlog review
+PROP-0005,680 RIVERSIDE DRIVE,Manhattan,HARLEM-UPPER,Residential Condo,Taylor Morgan,15,4,1,3,11,2,1,0,2,Electrical,1,8,9807.36,6.0,2025-11-20,Immediate backlog review
+PROP-0044,1019 SOUTHERN BOULEVARD,Bronx,MORRISANIA/LONGWOOD,Multifamily Condo,Avery Johnson,17,4,2,2,13,3,1,0,3,Plumbing,2,8,8087.11,6.5,2025-10-23,Immediate backlog review
+PROP-0145,255 WEST 84 STREET,Manhattan,UPPER WEST SIDE (79-96),Multifamily Condo,Taylor Morgan,24,3,1,2,21,6,1,1,7,HVAC,2,9,14992.54,7.3,2025-12-24,Immediate backlog review
+PROP-0019,29 SOUTH 3 STREET,Brooklyn,WILLIAMSBURG-SOUTH,Mixed-Use Condo,Riley Chen,23,3,1,2,20,4,1,1,3,Electrical,1,8,11481.74,6.5,2025-12-25,Immediate backlog review
+PROP-0148,257 WEST 93 STREET,Manhattan,UPPER WEST SIDE (79-96),Multifamily Condo,Morgan Patel,11,3,2,1,8,1,1,0,1,Electrical,1,6,5224.15,3.4,2025-12-20,Immediate backlog review
+PROP-0050,57 MASPETH AVENUE,Brooklyn,WILLIAMSBURG-EAST,Multifamily Condo,Taylor Morgan,11,3,0,3,8,2,1,0,1,Electrical,1,5,4618.11,6.5,2025-12-12,Immediate backlog review
+PROP-0013,125 NORTH 10 STREET,Brooklyn,WILLIAMSBURG-NORTH,Multifamily Condo,Nadia Williams,24,2,1,1,22,4,1,3,3,Elevator,1,9,16235.16,6.8,2025-11-12,Immediate backlog review
+PROP-0164,519 WEST 135 STREET,Manhattan,HARLEM-WEST,Multifamily Condo,Casey Rivera,17,2,2,0,15,1,1,3,2,Common Area,1,6,9462.16,4.6,2025-12-19,Immediate backlog review
+PROP-0174,184 DUANE STREET,Manhattan,TRIBECA,Retail-Adjacent Condo,Taylor Morgan,20,2,2,0,18,3,1,2,5,Common Area,2,9,23198.23,6.9,2025-12-26,Immediate backlog review
+PROP-0167,220 WEST BROADWAY,Manhattan,TRIBECA,Multifamily Condo,Cameron Brooks,17,2,1,1,15,4,1,2,2,HVAC,1,7,13864.55,7.3,2025-12-20,Immediate backlog review
+PROP-0075,61-05 39 AVENUE,Queens,WOODSIDE,Multifamily Condo,Morgan Patel,22,2,1,1,20,5,1,1,6,Electrical,2,9,17745.19,4.5,2025-12-27,Immediate backlog review
+PROP-0032,80 ADELPHI STREET,Brooklyn,FORT GREENE,Multifamily Condo,Cameron Brooks,15,2,1,1,13,1,1,1,2,Plumbing,1,7,11790.08,3.8,2025-12-15,Immediate backlog review
+PROP-0126,31-35 31 STREET,Queens,ASTORIA,Multifamily Condo,Nadia Williams,13,2,1,1,11,3,1,1,3,Common Area,2,7,8183.9,8.5,2025-11-22,Immediate backlog review
+PROP-0120,456 FLUSHING AVENUE,Brooklyn,BEDFORD STUYVESANT,Mixed-Use Condo,Samira Khan,13,2,0,2,11,3,1,1,2,Janitorial,1,6,5085.82,7.5,2025-12-28,Immediate backlog review
+PROP-0095,378 BALTIC STREET,Brooklyn,CARROLL GARDENS,Multifamily Condo,Jordan Lee,21,2,1,1,19,4,1,0,6,Common Area,1,9,18665.37,6.2,2025-12-23,Immediate backlog review
+PROP-0144,123 3 AVENUE,Manhattan,EAST VILLAGE,Multifamily Condo,Samira Khan,11,2,0,2,9,2,1,0,2,Elevator,1,6,8248.29,6.8,2025-12-14,Immediate backlog review
+PROP-0123,2185 ADAM C. POWELL BOULEVARD,Manhattan,HARLEM-CENTRAL,Retail-Adjacent Condo,Riley Chen,16,2,2,0,14,3,1,0,0,Elevator,2,9,7203.85,7.1,2025-12-11,Immediate backlog review
+PROP-0006,999 FOREST AVENUE,Staten Island,WEST NEW BRIGHTON,Multifamily Condo,Samira Khan,13,2,1,1,11,1,1,0,2,Common Area,1,5,6177.8,6.2,2025-12-06,Immediate backlog review
+PROP-0063,577 WEST 161 STREET,Manhattan,WASHINGTON HEIGHTS LOWER,Multifamily Condo,Jordan Lee,14,2,0,2,12,4,1,0,1,Common Area,1,8,5441.6,7.8,2025-12-26,Immediate backlog review
+PROP-0113,205 EAST 22 STREET,Manhattan,GRAMERCY,Multifamily Condo,Jordan Lee,16,2,1,1,14,3,1,0,2,Preventive Maintenance,1,8,5230.24,8.4,2025-12-28,Immediate backlog review
+PROP-0058,65-38 AUSTIN STREET,Queens,REGO PARK,Residential Condo,Samira Khan,13,1,1,0,12,1,1,2,0,Electrical,1,6,7524.42,5.3,2025-12-16,Immediate backlog review
+PROP-0089,136-17 MAPLE AVENUE,Queens,FLUSHING-NORTH,Multifamily Condo,Jordan Lee,20,1,0,1,19,3,1,1,3,Preventive Maintenance,1,8,14351.8,5.8,2025-11-10,Immediate backlog review
+PROP-0048,220 WEST 148 STREET,Manhattan,HARLEM-CENTRAL,Multifamily Condo,Taylor Morgan,20,1,1,0,19,5,1,1,2,Preventive Maintenance,1,7,11458.94,7.4,2025-12-14,Immediate backlog review
+PROP-0055,132-34 41 AVENUE,Queens,FLUSHING-NORTH,Multifamily Condo,Cameron Brooks,18,1,1,0,17,3,1,1,4,Common Area,1,9,10171.37,6.2,2025-12-23,Immediate backlog review
+PROP-0154,195 BALCOM AVENUE,Bronx,THROGS NECK,Multifamily Condo,Taylor Morgan,16,1,0,1,15,2,1,1,1,Common Area,1,8,9583.13,6.9,2025-12-21,Immediate backlog review
+PROP-0051,6501 BAY PARKWAY,Brooklyn,GRAVESEND,Mixed-Use Condo,Morgan Patel,8,1,1,0,7,1,1,1,0,Security,1,7,7006.28,6.3,2025-07-18,Immediate backlog review
+PROP-0124,2132 2 AVENUE,Manhattan,HARLEM-EAST,Mixed-Use Condo,Jordan Lee,11,1,1,0,10,1,1,0,1,Elevator,1,5,5030.52,6.4,2025-12-07,Immediate backlog review
+PROP-0053,235 OCEAN PARKWAY,Brooklyn,KENSINGTON,Residential Condo,Jordan Lee,10,1,0,1,9,2,1,0,2,HVAC,1,5,3660.57,5.8,2025-12-14,Immediate backlog review
+PROP-0014,56-16 SEABURY STREET,Queens,ELMHURST,Multifamily Condo,Drew Thompson,21,8,2,6,13,3,0,2,2,Plumbing,4,8,12359.95,5.3,2025-12-19,Immediate backlog review
+PROP-0082,415 EAST 54 STREET,Manhattan,MIDTOWN EAST,Multifamily Condo,Riley Chen,27,5,3,2,22,6,0,2,5,Plumbing,2,9,19702.92,7.6,2025-12-21,Immediate backlog review
+PROP-0151,140 NORTH 6 STREET,Brooklyn,WILLIAMSBURG-NORTH,Multifamily Condo,Jordan Lee,16,5,5,0,11,2,0,1,3,Elevator,2,8,12143.57,6.4,2025-11-09,Immediate backlog review
+PROP-0149,850 HOWARD AVENUE,Staten Island,SUNNYSIDE,Multifamily Condo,Avery Johnson,22,5,2,3,17,1,0,1,1,Common Area,1,8,11744.91,4.9,2025-12-19,Immediate backlog review
+PROP-0046,755 KENT AVENUE,Brooklyn,WILLIAMSBURG-CENTRAL,Mixed-Use Condo,Riley Chen,28,5,1,4,23,5,0,1,2,Plumbing,2,9,11577.69,8.0,2025-12-15,Immediate backlog review
+PROP-0175,110-14 65 AVENUE,Queens,FOREST HILLS,Retail-Adjacent Condo,Jordan Lee,20,4,2,2,16,4,0,2,2,Preventive Maintenance,2,7,11472.59,6.2,2025-12-28,Immediate backlog review
+PROP-0070,48 EAST END AVENUE,Manhattan,UPPER EAST SIDE (79-96),Multifamily Condo,Morgan Patel,12,4,3,1,8,2,0,1,1,Common Area,1,7,7405.35,6.9,2025-12-27,Immediate backlog review
+PROP-0102,46-22 171 STREET,Queens,FLUSHING-NORTH,Mixed-Use Condo,Nadia Williams,12,4,2,2,8,2,0,0,2,Plumbing,2,6,12452.24,6.6,2025-12-27,Routine backlog monitoring
+PROP-0062,380 NEPTUNE AVENUE,Brooklyn,BRIGHTON BEACH,Residential Condo,Drew Thompson,19,4,2,2,15,1,0,0,3,HVAC,2,7,10968.3,6.1,2025-12-14,Routine backlog monitoring
+PROP-0163,118-82 METROPOLITAN AVENUE,Queens,KEW GARDENS,Residential Condo,Nadia Williams,16,4,3,1,12,1,0,0,2,Preventive Maintenance,2,5,8942.54,8.0,2025-12-22,Routine backlog monitoring
+PROP-0083,112-45 39 AVENUE,Queens,75TH Q QUEENS,Multifamily Condo,Drew Thompson,16,4,2,2,12,2,0,0,2,Security,2,7,6653.37,8.2,2025-12-10,Routine backlog monitoring
+PROP-0064,178 DIVISION AVENUE,Brooklyn,75TH Q BROOKLYN,Mixed-Use Condo,Casey Rivera,19,3,1,2,16,3,0,2,4,HVAC,2,7,13451.71,7.9,2025-12-23,Immediate backlog review
+PROP-0031,40 WEST 55 STREET,Manhattan,MIDTOWN WEST,Residential Condo,Riley Chen,17,3,1,2,14,5,0,2,2,Elevator,1,8,12813.96,8.2,2025-12-04,Immediate backlog review
+PROP-0143,54-09 108 STREET,Queens,CORONA,Multifamily Condo,Morgan Patel,11,3,1,2,8,2,0,0,4,Electrical,1,5,12870.72,6.3,2025-12-21,Routine backlog monitoring
+PROP-0094,546 55 STREET,Brooklyn,SUNSET PARK,Residential Condo,Avery Johnson,18,3,2,1,15,4,0,0,4,Common Area,1,7,12330.91,9.9,2025-12-04,Routine backlog monitoring
+PROP-0157,52 DEAN STREET,Brooklyn,BOERUM HILL,Multifamily Condo,Avery Johnson,21,3,0,3,18,2,0,0,4,HVAC,1,8,11261.56,6.6,2025-12-03,Routine backlog monitoring
+PROP-0114,245 WEST 115 STREET,Manhattan,HARLEM-CENTRAL,Mixed-Use Condo,Drew Thompson,23,3,0,3,20,5,0,0,4,Elevator,1,9,11047.6,7.5,2025-12-17,Routine backlog monitoring
+PROP-0034,525 PARK AVENUE,Manhattan,UPPER EAST SIDE (59-79),Retail-Adjacent Condo,Samira Khan,20,3,1,2,17,2,0,0,5,Electrical,1,8,9603.65,5.3,2025-12-25,Elevated backlog monitoring
+PROP-0088,148 EAST 24 STREET,Manhattan,GRAMERCY,Multifamily Condo,Taylor Morgan,15,3,0,3,12,2,0,0,1,Elevator,1,7,4627.8,6.5,2025-12-19,Routine backlog monitoring
+PROP-0027,30 WEST 9 STREET,Manhattan,GREENWICH VILLAGE-CENTRAL,Multifamily Condo,Drew Thompson,13,3,3,0,10,1,0,0,1,Elevator,1,7,3747.0,6.8,2025-12-27,Routine backlog monitoring
+PROP-0068,42-83 HUNTER STREET,Queens,LONG ISLAND CITY,Retail-Adjacent Condo,Taylor Morgan,11,3,0,3,8,2,0,0,0,HVAC,2,8,3639.47,8.8,2025-12-10,Routine backlog monitoring
+PROP-0131,139-30 34 AVENUE,Queens,FLUSHING-NORTH,Multifamily Condo,Casey Rivera,18,2,0,2,16,2,0,2,2,Plumbing,1,8,11916.53,4.8,2025-12-24,Immediate backlog review
+PROP-0057,727 OCEAN VIEW AVENUE,Brooklyn,BRIGHTON BEACH,Mixed-Use Condo,Riley Chen,17,2,2,0,15,2,0,2,1,Janitorial,1,6,10859.91,5.9,2025-12-26,Immediate backlog review
+PROP-0043,376 WALLABOUT STREET,Brooklyn,WILLIAMSBURG-CENTRAL,Mixed-Use Condo,Taylor Morgan,17,2,2,0,15,2,0,1,4,HVAC,1,8,11397.94,5.8,2025-12-18,Immediate backlog review
+PROP-0105,40-40 75 STREET,Queens,ELMHURST,Mixed-Use Condo,Taylor Morgan,19,2,0,2,17,1,0,1,1,Electrical,1,9,11002.64,6.6,2025-11-26,Immediate backlog review
+PROP-0018,260 BEACH 81 STREET,Queens,HAMMELS,Multifamily Condo,Samira Khan,18,2,2,0,16,3,0,1,1,Plumbing,1,8,7980.61,6.7,2025-12-14,Immediate backlog review
+PROP-0156,3050 CORLEAR AVENUE,Bronx,KINGSBRIDGE/JEROME PARK,Residential Condo,Morgan Patel,21,2,0,2,19,0,0,0,4,Electrical,1,9,11117.79,5.3,2025-12-25,Routine backlog monitoring
+PROP-0087,599 4 AVENUE,Brooklyn,SUNSET PARK,Mixed-Use Condo,Jordan Lee,20,2,1,1,18,1,0,0,3,Common Area,1,9,10307.66,5.1,2025-12-27,Routine backlog monitoring
+PROP-0066,40 BOND STREET,Manhattan,GREENWICH VILLAGE-CENTRAL,Multifamily Condo,Morgan Patel,16,2,1,1,14,2,0,0,1,Plumbing,1,8,8857.32,7.7,2025-10-22,Routine backlog monitoring
+PROP-0080,380 KINGS HIGHWAY,Brooklyn,GRAVESEND,Multifamily Condo,Morgan Patel,12,2,1,1,10,1,0,0,3,Electrical,1,8,4774.86,6.9,2025-12-27,Routine backlog monitoring
+PROP-0153,2280 FREDERICK DOUGLASS BLVD,Manhattan,HARLEM-CENTRAL,Multifamily Condo,Jordan Lee,25,1,0,1,24,5,0,2,2,Janitorial,1,9,24927.99,7.6,2025-12-27,Immediate backlog review
+PROP-0029,3435 GUIDER AVENUE,Brooklyn,SHEEPSHEAD BAY,Multifamily Condo,Samira Khan,10,1,0,1,9,3,0,1,5,Tenant Request,1,8,10974.76,6.8,2025-12-02,Immediate backlog review
+PROP-0004,21 EAST 66 STREET,Manhattan,UPPER EAST SIDE (59-79),Multifamily Condo,Jordan Lee,13,1,0,1,12,1,0,0,3,Janitorial,1,8,9458.45,4.7,2025-12-16,Routine backlog monitoring
+PROP-0015,38-22 147 STREET,Queens,FLUSHING-NORTH,Multifamily Condo,Jordan Lee,13,1,0,1,12,3,0,0,5,Electrical,1,8,9343.78,8.1,2025-12-18,Elevated backlog monitoring
+PROP-0162,56 COURT STREET,Brooklyn,BROOKLYN HEIGHTS,Multifamily Condo,Drew Thompson,15,1,0,1,14,2,0,0,6,Electrical,1,7,8708.73,6.0,2025-11-08,Elevated backlog monitoring
+PROP-0021,1765 EAST 19 STREET,Brooklyn,MADISON,Multifamily Condo,Drew Thompson,13,1,1,0,12,0,0,0,2,Security,1,5,8706.96,6.3,2025-11-25,Routine backlog monitoring
+PROP-0071,218 WEST 14 STREET,Manhattan,GREENWICH VILLAGE-WEST,Residential Condo,Samira Khan,17,1,1,0,16,2,0,0,3,Tenant Request,1,7,8666.77,4.2,2025-12-06,Routine backlog monitoring
+PROP-0116,1835 EAST 14 STREET,Brooklyn,MADISON,Multifamily Condo,Casey Rivera,10,1,1,0,9,3,0,0,4,Electrical,1,7,8222.4,5.9,2025-11-09,Routine backlog monitoring
+PROP-0137,94-22 55 AVENUE,Queens,ELMHURST,Retail-Adjacent Condo,Samira Khan,12,1,1,0,11,3,0,0,3,Common Area,1,8,6945.21,10.2,2025-10-02,Routine backlog monitoring
+PROP-0012,724 EAST 221 STREET,Bronx,WILLIAMSBRIDGE,Residential Condo,Jordan Lee,6,1,1,0,5,0,0,0,0,Electrical,1,6,4259.24,3.2,2025-11-15,Routine backlog monitoring
+PROP-0024,359 16 STREET,Brooklyn,PARK SLOPE SOUTH,Retail-Adjacent Condo,Taylor Morgan,10,1,0,1,9,3,0,0,1,Security,1,5,3502.83,7.7,2025-12-18,Routine backlog monitoring
+PROP-0035,2833 FORD STREET,Brooklyn,SHEEPSHEAD BAY,Residential Condo,Samira Khan,6,0,0,0,6,2,0,1,2,,,5,8017.82,7.2,2025-11-02,Immediate backlog review
+PROP-0017,316 WEST 116 STREET,Manhattan,MANHATTAN VALLEY,Multifamily Condo,Samira Khan,17,0,0,0,17,2,0,1,3,,,8,6666.84,7.9,2025-11-10,Immediate backlog review
+PROP-0127,4721 8 AVENUE,Brooklyn,BOROUGH PARK,Residential Condo,Casey Rivera,14,0,0,0,14,1,0,0,2,,,7,8152.06,7.8,2025-12-23,No active backlog
+PROP-0165,102 MADISON STREET,Manhattan,LOWER EAST SIDE,Mixed-Use Condo,Riley Chen,7,0,0,0,7,0,0,0,1,,,5,3564.61,6.0,2025-09-10,No active backlog

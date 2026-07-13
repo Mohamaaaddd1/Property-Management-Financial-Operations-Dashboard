@@ -1,0 +1,18 @@
+vendor_id,vendor_name,default_invoice_category,synthetic_record
+VEND-001,Rapid Repair Co,Repairs & Maintenance,True
+VEND-002,Skyline Maintenance,Repairs & Maintenance,True
+VEND-003,Metro Mechanical,Repairs & Maintenance,True
+VEND-004,Ace Plumbing,Repairs & Maintenance,True
+VEND-005,Bright Electric,Repairs & Maintenance,True
+VEND-006,ConEd Utility,Utilities,True
+VEND-007,NY Water Services,Utilities,True
+VEND-008,Gridline Energy,Utilities,True
+VEND-009,Guardian Security,Security,True
+VEND-010,FrontDesk Patrol,Security,True
+VEND-011,CleanCore Services,Janitorial,True
+VEND-012,Sparkle Janitorial,Janitorial,True
+VEND-013,Urban Greenery,Landscaping,True
+VEND-014,LedgerPro Accounting,Professional Services,True
+VEND-015,ComplianceWorks,Professional Services,True
+VEND-016,RiskShield Insurance,Insurance,True
+VEND-017,OfficeWorks Supply,Administrative,True

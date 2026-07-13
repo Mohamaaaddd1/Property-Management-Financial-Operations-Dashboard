@@ -1,0 +1,18 @@
+vendor_id,vendor_name,default_invoice_category,invoice_count,properties_impacted,total_invoice_amount,exception_invoice_count,exception_rate_pct,compliance_exception_count,late_payment_count,potential_duplicate_review_count,missing_gl_code_count,pending_approval_count,rejected_invoice_count,first_invoice_date,latest_invoice_date,vendor_exception_status
+VEND-017,OfficeWorks Supply,Administrative,665,170,489065.0,212,31.9,212,98,12,19,80,20,2025-01-01,2025-12-25,High vendor exception workload
+VEND-012,Sparkle Janitorial,Janitorial,643,171,2083740.83,187,29.1,187,84,17,16,73,24,2025-01-01,2025-12-25,High vendor exception workload
+VEND-006,ConEd Utility,Utilities,593,170,2365992.42,185,31.2,185,86,13,22,65,19,2025-01-01,2025-12-25,High vendor exception workload
+VEND-002,Skyline Maintenance,Repairs & Maintenance,617,171,3177182.52,183,29.7,183,80,11,28,64,19,2025-01-01,2025-12-25,High vendor exception workload
+VEND-001,Rapid Repair Co,Repairs & Maintenance,602,171,2707421.21,181,30.1,181,77,11,19,74,24,2025-01-01,2025-12-25,High vendor exception workload
+VEND-015,ComplianceWorks,Professional Services,620,173,989796.75,179,28.9,179,69,12,21,72,23,2025-01-01,2025-12-25,High vendor exception workload
+VEND-005,Bright Electric,Repairs & Maintenance,650,172,3351348.59,179,27.5,179,77,14,23,72,12,2025-01-01,2025-12-25,High vendor exception workload
+VEND-003,Metro Mechanical,Repairs & Maintenance,651,170,3589187.7,176,27.0,176,78,16,22,64,14,2025-01-02,2025-12-25,High vendor exception workload
+VEND-009,Guardian Security,Security,605,169,1139344.87,174,28.8,174,78,9,16,72,15,2025-01-01,2025-12-25,High vendor exception workload
+VEND-007,NY Water Services,Utilities,620,172,2247003.1,174,28.1,174,72,12,22,63,28,2025-01-01,2025-12-25,High vendor exception workload
+VEND-004,Ace Plumbing,Repairs & Maintenance,639,171,3432155.94,174,27.2,174,72,7,26,69,17,2025-01-01,2025-12-25,High vendor exception workload
+VEND-014,LedgerPro Accounting,Professional Services,599,164,1158821.56,171,28.5,171,58,11,31,70,17,2025-01-01,2025-12-25,High vendor exception workload
+VEND-013,Urban Greenery,Landscaping,601,169,835640.85,169,28.1,169,79,6,18,68,16,2025-01-01,2025-12-25,High vendor exception workload
+VEND-010,FrontDesk Patrol,Security,586,170,1153136.95,163,27.8,163,62,12,21,68,18,2025-01-01,2025-12-25,High vendor exception workload
+VEND-016,RiskShield Insurance,Insurance,619,169,1840094.54,159,25.7,159,74,12,19,56,17,2025-01-01,2025-12-25,High vendor exception workload
+VEND-011,CleanCore Services,Janitorial,638,175,2039378.66,159,24.9,159,84,8,19,49,18,2025-01-01,2025-12-25,High vendor exception workload
+VEND-008,Gridline Energy,Utilities,633,172,2046831.44,153,24.2,153,54,11,23,61,19,2025-01-01,2025-12-24,High vendor exception workload
