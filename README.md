@@ -64,7 +64,7 @@ Processed outputs are created in [`data/processed/`](data/processed/), and dashb
 - Python for orchestration and exports
 - pandas for data loading, aggregation, and validation
 - matplotlib for professional charting
-- Tableau/Power BI-ready CSV exports for dashboard development
+- Tableau dashboard development using curated dashboard-ready CSV exports
 - Responsible AI-assisted reporting using a local rule-based template, with no external API or client data
 
 ## Key Analyses
@@ -109,6 +109,10 @@ Dashboard screenshots:
 
 ![AR, Vendor Invoices and Compliance Controls](dashboards/screenshots/03_AR%2C%20Vendor%20Invoices%20%26%20Compliance%20Controls.png)
 
+### Tableau Workbook
+
+[Download the packaged Tableau workbook](dashboards/tableau/Property%20Management%20Financial%20Operations%20%26%20Compliance%20Dashboard.twbx)
+
 Generated reports:
 
 - [01 Data Validation Summary](reports/01_data_validation_summary.md)
@@ -118,6 +122,13 @@ Generated reports:
 
 ```text
 Property_Management_Analytics_Project/
+├── dashboards/
+│   ├── screenshots/
+│   │   ├── 01_Executive Monthly KPI Overview.png
+│   │   ├── 02_Property Budget & Operational Risk.png
+│   │   └── 03_AR, Vendor Invoices & Compliance Controls.png
+│   └── tableau/
+│       └── Property Management Financial Operations & Compliance Dashboard.twbx
 ├── data/
 │   ├── processed/
 │   ├── dashboard_exports/
@@ -141,6 +152,8 @@ Property_Management_Analytics_Project/
 ├── src/
 │   ├── run_sql_exports.py
 │   └── create_dashboard_exports.py
+├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
