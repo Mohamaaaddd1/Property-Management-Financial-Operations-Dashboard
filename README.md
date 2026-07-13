@@ -97,9 +97,17 @@ Latest reporting month: **December 2025**
 
 Dashboard screenshots:
 
-- [01 Executive Monthly KPI Overview](dashboards/screenshots/01_Executive%20Monthly%20KPI%20Overview.png)
-- [02 Property Budget & Operational Risk](dashboards/screenshots/02_Property%20Budget%20%26%20Operational%20Risk.png)
-- [03 AR, Vendor Invoices & Compliance Controls](dashboards/screenshots/03_AR%2C%20Vendor%20Invoices%20%26%20Compliance%20Controls.png)
+### 1. Executive Monthly KPI Overview
+
+![Executive Monthly KPI Overview](dashboards/screenshots/01_Executive%20Monthly%20KPI%20Overview.png)
+
+### 2. Property Budget & Operational Risk
+
+![Property Budget and Operational Risk](dashboards/screenshots/02_Property%20Budget%20%26%20Operational%20Risk.png)
+
+### 3. AR, Vendor Invoices & Compliance Controls
+
+![AR, Vendor Invoices and Compliance Controls](dashboards/screenshots/03_AR%2C%20Vendor%20Invoices%20%26%20Compliance%20Controls.png)
 
 Generated reports:
 
